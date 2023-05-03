@@ -1,0 +1,30 @@
+Buatlah sebuah Program serta Flowchartnya untuk kasus berikut.
+Memasukan nilai Siswa dari satu mata pelajaran di kelas, dimana nilai tersebut disimpan dalam sebuah variabel (array).
+Setelah memasukan sejumlah nilai, kemudian keluarkan outputnya dengan ketentuan berikut :
+
+1. Tampilkan nilai yang dimasukan
+2. cari Nilai tertinggi & terendah 
+3. Mencari rata-rata
+4. Jumlah Siswa lulus dan tidak lulus ujian  (dengan kriteria nilai lulus harus >= 60)
+5. Urutkan nilai siswa
+6. Cari dan tampilkan siswa nilai=90 dan nilai=100
+
+Berikut adalah contoh outputnya :
+
+Inputkan nilai dan ketik "q" jika sudah selesai :
+100
+90
+99
+59
+99
+q
+
+Nilai yang diinputkan    : 100, 90, 99, 59, 99
+Nilai tertinggi          : 100
+Nilai terendah           : 59
+Rata-rata nilai          : 89.4
+Jumlah siswa lulus       : 4
+Jumlah siswa tidak lulus : 1
+Urutan nilai terendah ke tertinggi : 59, 90, 99, 99, 100       
+Siswa dengan nilai 90 : 1
+Siswa dengan nilai 100 : 1
